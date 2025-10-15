@@ -10,18 +10,14 @@
 
 ## Getting Started
 ### Clone the repository:
-- git clone https://github.com/Taipan-4ik/Museum-landing.git
-- cd Museum-landing
+- `git clone https://github.com/Taipan-4ik/Museum-landing.git`
+- `cd Museum-landing`
 
 ### Install dependencies:
-- npm install
-# or
-- yarn install
+- `npm install` (or `yarn install`)
 
 ### Run the project locally:
-- npm start
-# or
-- yarn start
+- `npm start` (or `yarn start`)
 
 ## Features
 - Responsive design: optimized for different screen sizes and devices, responses on width 320px, 768px 1280px.
