@@ -11,7 +11,7 @@
 ## Getting Started
 ### Clone the repository:
 - git clone https://github.com/Taipan-4ik/Museum-landing.git
-- cd project-name
+- cd Museum-landing
 
 ### Install dependencies:
 - npm install
