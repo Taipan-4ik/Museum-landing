@@ -21,5 +21,5 @@
 
 ## Features
 - Responsive design: optimized for different screen sizes and devices, responses on width 320px, 768px 1280px.
-- Smooth animations
-- Scroll to Top Button: Easily return to the top of the page. 
+- Smooth animations.
+- Scroll to Top Button: easily return to the top of the page. 
